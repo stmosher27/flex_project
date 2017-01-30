@@ -2,7 +2,10 @@
 
 #### Background
 
-Geolocation
+Geolocation is a powerfully communicative tool, especially in the mobile market
+where users often find themselves in unfamiliar locales with only their mobile device
+to clarify where they are. This app seeks to utilize geo-location based functionality
+by giving mobile users an easy way to share their location with others on request. 
 
 
 #### Functionality & MVP
