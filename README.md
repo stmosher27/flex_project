@@ -14,7 +14,7 @@ With this app, users will be able to:
 
 - [ ] Use react-native geolocation to pinpoint exactly where the user is
 - [ ] Allow other users set boundaries using react native geofencing
-- [ ] Send out text if position is out of the set bounds
+- [ ] Send out text if position is out of the set bounds using react-native communications
 - [ ] Be able to send text message response with location to requesting user
 - [ ] Mobile app with UI/UX in mind
 - [ ] iOS application
